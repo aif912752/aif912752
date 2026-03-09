@@ -58,18 +58,6 @@ const siripak = {
 
 ---
 
-### 📌 Top Repositories
-
-<div align="center">
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=aif912752&repo=aif912752&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=39d353&text_color=c9d1d9)](https://github.com/aif912752)
-
-</div>
-
-> 💡 *Tip: Replace `repo=aif912752` above with your actual repo names to pin specific projects*
-
----
-
 ### 🤝 Connect with Me
 
 <div align="center">
